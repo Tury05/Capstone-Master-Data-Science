@@ -11,3 +11,5 @@ El proyecto se centra en un conjunto de datos de la cadena de supermercados DS M
 - **data**: Carpeta que contiene los archivos de datos utilizados en el proyecto.
 - **dashboards**: Carpeta que contiene los dashboards expuestos en la presentación del proyecto.
 - **webapp**: Carpeta que contiene los archivos necesarios para desplegar la aplicacion web en docker.
+
+Todos los notebooks se encuentran en la carpeta raíz.
